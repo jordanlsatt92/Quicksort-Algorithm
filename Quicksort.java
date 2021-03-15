@@ -1,13 +1,9 @@
-package edu.unca.csci333;
 
 import java.util.Random;
 
 /**
- * Quicksort implements the quicksort methods and helper methods. All methods are upperbound exclusive
+ * Quicksort implements the quicksort methods and helper methods. All methods are upperbound exclusive.
  * @author Jordan Satterfield
- * February 4th, 2021
- * CSCI333: Alogorithms and Data Structures
- * Homework 3: Quicksort
  */
 public class Quicksort<T extends Comparable<T>> {
 	
