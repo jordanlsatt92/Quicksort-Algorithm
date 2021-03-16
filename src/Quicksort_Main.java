@@ -4,9 +4,6 @@
  * Quicksort_Main demonstrates that the quicksort and randomizedQuicksort algorithms
  * are working properly.
  * @author Jordan Satterfield
- * February 4th, 2021
- * CSCI333: Algorithms and Data Structures.
- * Homework3: Quicksort
  */
 public class Quicksort_Main {
 	
